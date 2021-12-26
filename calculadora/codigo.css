@@ -1,0 +1,45 @@
+.espacio {
+    background-color: yellow;
+}
+.display {
+    border: 2px solid black;
+    width: 800px;
+    height: 100px;
+    margin-left: 25%;
+    margin-top: 20%;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+    font-size: 50px;
+}
+
+.cuerpo {
+    background-color: grey;
+    border: 2px solid black;
+    text-align: center;
+    width: 800px;
+    height: 200px;
+    margin-left: 25%;
+}
+
+.boton {
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-left: 185px;
+    padding-bottom: 15px;
+}
+
+.operador {
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-left: 185px;
+    padding-bottom: 15px;
+}
+
+.borrar {
+    border: 1px solid black;
+    padding-top: 15px;
+    padding-left: 185px;
+    padding-bottom: 15px;
+}

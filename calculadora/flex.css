@@ -1,0 +1,60 @@
+.cuerpo {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 2px 2px;
+}
+/*.cuerpo {
+    display: flex;
+}*/
+.calculo {
+    order: 1;
+}
+.numero1 {
+    order: 1;
+}
+.numero2 {
+    order: 2;
+}
+.numero3 {
+    order: 3;
+}
+.numero4 {
+    order: 5;
+}
+.numero5 {
+    order: 6;
+}
+.numero6 {
+    order: 7;
+}
+.numero7 {
+    order: 9;
+}
+.numero8 {
+    order: 10;
+}
+.numero9 {
+    order: 11;
+}
+.numero0 {
+    order: 14;
+}
+.signomas {
+    order: 4;
+}
+.signomenos {
+    order: 8;
+}
+.signomul {
+    order: 16;
+}
+.signodiv {
+    order: 12;
+}
+.signoigual {
+    order: 15;
+}
+.borrar {
+    order: 13;
+}
